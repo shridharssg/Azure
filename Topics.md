@@ -1,14 +1,30 @@
 -Azure API
+
 -Azure Data Storage
+
 -Azure DB
+
 -Azure Function
+
 -Azure Vault
+
 -Azure Service bus
+
 -Azure Event grid
+
 -Azure Devops
+
 -Logic Apps
 
+---
 
+ https://learn.microsoft.com/en-us/azure/developer/
+ 
+ https://learn.microsoft.com/en-us/azure/developer/intro/azure-developer-key-services
+
+Azure Functions : https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios?pivots=programming-language-javascript
+
+---
 
 Azure is Microsoft’s cloud platform that offers a lot of services that allow you to build, deploy and manage applications and services
 
