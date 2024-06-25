@@ -1,3 +1,6 @@
+
+https://learn.microsoft.com/en-us/azure/developer/intro/azure-developer-key-services
+
 -Azure API
 
 -Azure Data Storage
@@ -22,7 +25,10 @@
  
  https://learn.microsoft.com/en-us/azure/developer/intro/azure-developer-key-services
 
-Azure Functions : https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios?pivots=programming-language-javascript
+Azure Functions : 
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios?pivots=programming-language-javascript
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview?pivots=programming-language-javascript
 
 ---
 
